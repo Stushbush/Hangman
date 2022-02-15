@@ -50,3 +50,4 @@ hangman_imgs = ['''
       |
 =========''']
 
+word_list=["jinxed, fuzzy, muffling, voyage, keyhole, quibble, skywalk, swallow, billion, chapter, outfit, manufacturer, oxygen, klutz, ski, ipod, whisk, mystify, toast, twelfth"]
